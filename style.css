@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+h1{
+    color: rgb(239, 9, 9)
+}
+h2{
+    color:rgba(181, 35, 210, 0.653);
+}
+h3{
+    color: rgba(165, 42, 42, 0.801)
+}
+ul{
+    color: rgb(48, 35, 227)
+}
+table{
+    color:rgb(37, 9, 139)
+}
+table border{
+    color:rgb(37, 9, 139)
+}
